@@ -1,0 +1,14 @@
+header {
+    background-color: #34507f;
+}
+main {
+    background-color: #34507f;
+}
+footer {
+    background-color: #f3f5fa;
+}
+.blackandwhite {
+    -webkit-filter: grayscale(1); /* Webkit */
+    filter: gray; /* IE6-9 */
+    filter: grayscale(1); /* W3C */
+}
